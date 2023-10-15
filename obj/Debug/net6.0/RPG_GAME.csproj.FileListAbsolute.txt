@@ -1,0 +1,15 @@
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.csproj.AssemblyReference.cache
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.AssemblyInfoInputs.cache
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.AssemblyInfo.cs
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.csproj.CoreCompileInputs.cache
+D:\Hotfa\C#\RPG_GAME\bin\Debug\net6.0\RPG_GAME.exe
+D:\Hotfa\C#\RPG_GAME\bin\Debug\net6.0\RPG_GAME.deps.json
+D:\Hotfa\C#\RPG_GAME\bin\Debug\net6.0\RPG_GAME.runtimeconfig.json
+D:\Hotfa\C#\RPG_GAME\bin\Debug\net6.0\RPG_GAME.dll
+D:\Hotfa\C#\RPG_GAME\bin\Debug\net6.0\RPG_GAME.pdb
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.dll
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\refint\RPG_GAME.dll
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.pdb
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\RPG_GAME.genruntimeconfig.cache
+D:\Hotfa\C#\RPG_GAME\obj\Debug\net6.0\ref\RPG_GAME.dll
